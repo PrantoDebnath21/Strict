@@ -1,0 +1,98 @@
+/*common start*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato Regular' serif ;
+	font-size: 16px;
+	font-weight: 400;
+	color: #2d3950;
+}
+/*common end*/
+/*header start*/
+header{
+	padding: 20px 0;
+}
+.container{
+	margin: 0 auto;
+	overflow: hidden;
+	width: 100%;
+}
+
+.logo img{
+	width: 100%;
+}
+/*header end*/
+/*banner start*/
+.banner{}
+.b_img{}
+.b_img img{
+	width: 100%;
+}
+/*banner end*/
+/*Simple start*/
+.simple{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #f6f9f9;
+}
+.container2{
+	overflow: hidden;
+	margin: 0 auto;
+	width: 55%;
+}
+.g_content{}
+.c_light{
+	margin: 0;
+	padding: 10px;
+	font-family: 'Lato Regular', serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #2d3950;
+	text-transform: lowercase;
+	text-align: center;
+	
+}
+.c_h1{
+	margin-top: 0;
+	margin-bottom: 10px;
+	font-size: 40px;
+	font-weight: 500;
+	text-align: center;
+}
+.c_text{
+	margin: 0;
+	line-height: 25px;
+	text-align: center;
+	color: #999999;
+}
+.mb_40{
+	margin-bottom: 40px;
+}
+
+/*Simple end*/
+/*banner2 start*/
+
+.blog{
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+.blogs{}
+.single{
+	width: 28%;
+  float: left;
+  text-align: center;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  position: relative;
+}
+
+.s_img{
+	margin-bottom: 15px;
+	
+}
+.s_img img{
+	width: 100%
+}
+
+/*banner2 end*/
+
